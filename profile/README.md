@@ -17,19 +17,12 @@ AthenaX is an open-source data layer backed by NounsDAO, building tools to perma
 
 AthenaX ensures everything that matters stays permanently stored on IPFS. No deletions. No gatekeepers. True data ownership.
 
-## One Stack, Four Products
+#### 🔗 One Stack, Four Products
 
-### HackX (Build)
-Open-source hackathons with projects, teams, judges, and demos stored permanently on IPFS. Building reputation and organizer tools for the future of decentralized innovation.
-
-### ScholarX (Research)
-Direct publishing platform with datasets, peer review, citations, and full version control. Making academic research permanently accessible and verifiable.
-
-### AnalyticsX (Analyze)
-Free X performance tracking with historical metrics and influence scores preserved permanently. Your social data, always accessible.
-
-### LaunchX (Scale)
-Transparent accelerator with applications, milestones, feedback, and outcomes featuring on-chain-style audibility via IPFS.
+- **HackX** (Build): Open-source hackathons with projects, teams, and demos stored on IPFS
+- **ScholarX** (Research): Direct publishing with datasets, peer review, and version control
+- **AnalyticsX** (Analyze): Free X performance tracking with permanently preserved metrics
+- **LaunchX** (Scale): Transparent accelerator with on-chain-style audibility via IPFS
 
 ## Backed by NounsDAO
 
