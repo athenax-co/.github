@@ -1,6 +1,6 @@
 ## AthenaX
 
-** AthenaX - The Open Data Layer** 
+**AthenaX - The Open Data Layer** 
 
 **Building permanent infrastructure for human knowledge and innovation.** 
 <img width="1090" height="239" alt="image" src="https://github.com/user-attachments/assets/2522f639-0725-4b93-9e31-7c946a7106a2" />
@@ -33,7 +33,7 @@ Everything in AthenaX—builds, papers, metrics—lives permanently on IPFS. No 
 * **analyticsx-engine** - X analytics tracking system *(Coming Soon)*
 * **launchx-accelerator** - Transparent accelerator platform *(Coming Soon)*
 
-> 🚧 We're currently building in public. Repositories will be open-sourced as each product reaches initial release. Follow us on [Twitter](https://x.com/athenax_co) for updates!
+> We're currently building in public. Repositories will be open-sourced as each product reaches initial release. Follow us on [Twitter](https://x.com/athenax_co) for updates!
 
 
 ## Current Initiative: HackX Buildathon
