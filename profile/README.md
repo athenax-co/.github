@@ -24,7 +24,7 @@ AthenaX ensures everything that matters stays permanently stored on IPFS. No del
 - **X analytics tools charge excessive fees** for basic insights
 - **Valuable data and insights have no permanent**, accessible home
 
-## 🔗 Our Solution: One Stack, Four Products
+## Our Solution: One Stack, Four Products
 
 ### 1. HackX → Build
 Open-source hackathon platform where everything lives on IPFS forever.
