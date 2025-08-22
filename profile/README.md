@@ -24,10 +24,6 @@ AthenaX ensures everything that matters stays permanently stored on IPFS. No del
 - **AnalyticsX** (Analyze): Free X performance tracking with permanently preserved metrics
 - **LaunchX** (Scale): Transparent accelerator with on-chain-style audibility via IPFS
 
-## Backed by NounsDAO
-
-AthenaX is proudly backed by [NounsDAO](https://x.com/nounsdao), ensuring community ownership, governance, and alignment with public goods.
-
 ## The Open Data Promise
 
 Everything in AthenaX—builds, papers, metrics—lives permanently on IPFS. We're not just building tools. We're building permanent infrastructure for human knowledge.
