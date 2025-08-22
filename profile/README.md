@@ -6,23 +6,108 @@ We empower communities of builders, researchers, and analysts to connect and cre
 
 ## What is AthenaX?
 
-AthenaX is an open-source data layer backed by NounsDAO, building tools to permanently store and make accessible the world's knowledge. We use IPFS to ensure hackathon projects, research papers, and analytics data remain forever accessible, verifiable, and owned by their creators.
+AthenaX is an open-source data layer backed by NounsDAO, building tools to permanently store and make accessible the world's knowledge. We leverage IPFS to ensure all builder data—from hackathon projects to research papers to X analytics—remains permanently accessible, verifiable, and owned by their creators.
 
 **Join our [Discord](https://discord.gg/TkKH8rXX) | Follow us on [Twitter](https://x.com/athenax_co) | Visit our [Website](https://www.athenax.co/)**
 
-<img width="1019" height="153" alt="image" src="https://github.com/user-attachments/assets/1e41ac8b-1a78-483b-aa3c-1c60d58c4683" />
+<img width="1295" height="197" alt="image" src="https://github.com/user-attachments/assets/5308cecb-e0d0-4575-b433-bd106b8827ae" />
 
 
 ## Your Data, Forever Accessible
 
 AthenaX ensures everything that matters stays permanently stored on IPFS. No deletions. No gatekeepers. True data ownership.
 
-#### 🔗 One Stack, Four Products
+## The Problem We're Solving
 
-- **HackX** (Build): Open-source hackathons with projects, teams, and demos stored on IPFS
-- **ScholarX** (Research): Direct publishing with datasets, peer review, and version control
-- **AnalyticsX** (Analyze): Free X performance tracking with permanently preserved metrics
-- **LaunchX** (Scale): Transparent accelerator with on-chain-style audibility via IPFS
+- **Hackathon innovations disappear** after events end
+- **Research gets trapped** behind paywalls or lost when platforms shut down
+- **X analytics tools charge excessive fees** for basic insights
+- **Valuable data and insights have no permanent**, accessible home
+
+## 🔗 Our Solution: One Stack, Four Products
+
+### 1. HackX → Build
+Open-source hackathon platform where everything lives on IPFS forever.
+
+**Stored on IPFS:**
+- Project submissions and code repositories
+- Developer profiles and credentials
+- Team formation data
+- Demo videos and presentations
+- Judge feedback and scores
+
+**Key Features:** Permanent project records, builder reputation system, team discovery, organizer tools
+
+### 2. ScholarX → Research
+Decentralized research publishing platform with complete IPFS storage.
+
+**Stored on IPFS:**
+- Research articles and papers
+- Datasets and supplementary materials
+- Peer review comments
+- Author profiles and credentials
+- Citations and version history
+
+**Key Features:** Direct publishing, version control, community review, citation tracking
+
+### 3. AnalyticsX → Analyze
+Open-source X analytics tool with all data preserved on IPFS.
+
+**Stored on IPFS:**
+- X performance snapshots
+- Engagement metrics history
+- Follower growth data
+- Post performance records
+- Influence scores over time
+
+**Key Features:** Free X analytics, engagement tracking, influence scoring, permanent performance records
+
+### 4. LaunchX → Scale
+Data-driven accelerator with complete transparency via IPFS.
+
+**Stored on IPFS:**
+- Application materials
+- Progress milestones
+- Mentor feedback
+- Investment documents
+- Success metrics
+
+**Key Features:** Data-driven selection, transparent progress tracking, permanent success records
+
+## Technical Architecture
+
+### Core Infrastructure
+- All data stored on IPFS with content addressing
+- Redundant pinning across multiple nodes
+- Open-source applications accessing IPFS data
+- APIs for third-party integration
+
+### Data Permanence
+- Every action creates an immutable IPFS hash
+- Version control maintains complete history
+- No data can be deleted or altered
+- Verifiable timestamps for all records
+
+## Why This Matters
+
+### For Builders
+- Your work lives forever
+- Verifiable X metrics for investors
+- No platform lock-in
+- Complete data ownership
+
+### For the Ecosystem
+- Learn from every project ever built
+- Track real X performance over time
+- Build on existing knowledge
+- Verify any claim with permanent records
+
+## Use Cases
+
+- **Hackathon Organizers:** Run events knowing all innovations will be preserved and discoverable
+- **Researchers:** Publish once, accessible forever—no journals or gatekeepers needed
+- **Content Creators:** Prove your X growth with permanent, verifiable analytics
+- **Investors:** Verify founder claims about their social media influence and growth
 
 ## The Open Data Promise
 
@@ -59,11 +144,28 @@ Our codebase is being actively developed. All repositories will be open-sourced 
 
 ## Current Initiative: HackX Buildathon
 
-We're running the [HackX Buildathon](https://hackquest.io/hackathons/HackX-Buildathon) where developers are building the first open-source Web3 hackathon platform from scratch. 
+We're running the [HackX Buildathon](https://hackquest.io/hackathons/HackX-Buildathon) where developers are building the first open-source Web3 hackathon platform from scratch.
 
 **Why this matters:** Instead of relying on closed platforms, we're creating community-owned infrastructure that connects elite developers directly with emerging L1/L2 ecosystems - "made by devs, for devs & ecosystems."
 
 **Co-hosted by:** [@athenax_co](https://x.com/athenax_co) & [@nounsdao](https://x.com/nounsdao)
+
+## Roadmap
+
+- **Q3 2025:** HackX launch
+- **Q4 2025:** ScholarX release
+- **Q1 2026:** AnalyticsX deployment
+- **Q2 2026:** LaunchX first cohort
+- **Q3 2026:** Full ecosystem integration
+- **2027:** Community governance
+
+## Business Model
+
+Core infrastructure remains open source. Revenue through:
+- Enterprise support and deployments
+- Advanced analytics features
+- LaunchX program participation
+- Custom integrations
 
 ## Contributing to AthenaX
 
@@ -77,20 +179,19 @@ We welcome everyone to contribute to AthenaX and help build the open data layer.
 ### Getting Involved
 
 Interested in specific projects? Find us in these Discord channels:
-- **#HackX BUILDATION** - For HackX platform development
-- **#scholarx-research** - For ScholarX protocol discussions  *(Coming Soon)*
-- **#analyticsx-data** - For analytics engine contributors  *(Coming Soon)*
-- **#launchx-accelerator** - For accelerator platform development  *(Coming Soon)*
+- **#HackX-BUILDATHON** - For HackX platform development
+- **#scholarx-research** - For ScholarX protocol discussions *(Coming Soon)*
+- **#analyticsx-data** - For analytics engine contributors *(Coming Soon)*
+- **#launchx-accelerator** - For accelerator platform development *(Coming Soon)*
 
-## 🔍 Find Us
+## Find Us
 
 * **Twitter:** https://x.com/athenax_co
 * **Discord:** https://discord.gg/TkKH8rXX
 * **Website:** https://www.athenax.co/
 * **Documentation:** Coming Soon
 
-
-## 👥 We're Hiring!
+##  We're Hiring!
 
 <table>
     <thead>
@@ -129,4 +230,3 @@ Interested in specific projects? Find us in these Discord channels:
 <p align="center">
   <i>We're not just building tools. We're building permanent infrastructure for human knowledge and innovation.</i>
 </p>
-
